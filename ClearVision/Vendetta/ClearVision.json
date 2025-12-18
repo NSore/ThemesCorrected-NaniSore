@@ -517,6 +517,7 @@
     },
     "background": {
         "url": "https://i.ibb.co/d4hjsLGg/pikrepo.jpg",
+		"filter": brightness(50%),
 	"alpha": 1
     },
     "plus": {
