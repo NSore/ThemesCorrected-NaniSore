@@ -516,9 +516,9 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://i.ibb.co/d4hjsLGg/pikrepo.jpg",
-		"filter": brightness(50%),
-	"alpha": 1
+        "url": "https://raw.githubusercontent.com/Orokaneko/ThemesCustom/refs/heads/main/ClearVision/Vendetta/wp13012520-anime-night-iphone-wallpapers.jpg ",
+		"blur": 0.6,
+	"alpha": 0.75
     },
     "plus": {
         "version": 0,
